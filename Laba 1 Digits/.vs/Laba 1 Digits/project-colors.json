@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "520a5bb8-a1cb-4d6f-804d-217c98d302da": {
+      "ProjectGuid": "520a5bb8-a1cb-4d6f-804d-217c98d302da",
+      "DisplayName": "Laba 1 Digits",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

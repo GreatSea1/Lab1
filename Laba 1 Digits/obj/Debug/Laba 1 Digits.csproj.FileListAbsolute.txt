@@ -1,0 +1,8 @@
+C:\Users\pawsw\source\repos\Laba 1 Digits\bin\Debug\Laba 1 Digits.exe.config
+C:\Users\pawsw\source\repos\Laba 1 Digits\bin\Debug\Laba 1 Digits.exe
+C:\Users\pawsw\source\repos\Laba 1 Digits\bin\Debug\Laba 1 Digits.pdb
+C:\Users\pawsw\source\repos\Laba 1 Digits\obj\Debug\Laba 1 Digits.csproj.AssemblyReference.cache
+C:\Users\pawsw\source\repos\Laba 1 Digits\obj\Debug\Laba 1 Digits.csproj.SuggestedBindingRedirects.cache
+C:\Users\pawsw\source\repos\Laba 1 Digits\obj\Debug\Laba 1 Digits.csproj.CoreCompileInputs.cache
+C:\Users\pawsw\source\repos\Laba 1 Digits\obj\Debug\Laba 1 Digits.exe
+C:\Users\pawsw\source\repos\Laba 1 Digits\obj\Debug\Laba 1 Digits.pdb

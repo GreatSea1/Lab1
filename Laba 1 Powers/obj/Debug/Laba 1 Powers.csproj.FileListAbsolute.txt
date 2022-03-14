@@ -1,0 +1,8 @@
+C:\Users\pawsw\source\repos\Laba 1 Powers\bin\Debug\Laba 1 Powers.exe.config
+C:\Users\pawsw\source\repos\Laba 1 Powers\bin\Debug\Laba 1 Powers.exe
+C:\Users\pawsw\source\repos\Laba 1 Powers\bin\Debug\Laba 1 Powers.pdb
+C:\Users\pawsw\source\repos\Laba 1 Powers\obj\Debug\Laba 1 Powers.csproj.AssemblyReference.cache
+C:\Users\pawsw\source\repos\Laba 1 Powers\obj\Debug\Laba 1 Powers.csproj.SuggestedBindingRedirects.cache
+C:\Users\pawsw\source\repos\Laba 1 Powers\obj\Debug\Laba 1 Powers.csproj.CoreCompileInputs.cache
+C:\Users\pawsw\source\repos\Laba 1 Powers\obj\Debug\Laba 1 Powers.exe
+C:\Users\pawsw\source\repos\Laba 1 Powers\obj\Debug\Laba 1 Powers.pdb
